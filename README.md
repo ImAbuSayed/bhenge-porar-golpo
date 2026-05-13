@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bhenge-porar-golpo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Bhenge Porar Golpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bhenge-porar-golpo/) |
+| **Get License** | [License this song: Bhenge Porar Golpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bhenge-porar-golpo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> রাতের মায়ায় যখন তুমি আসো আমার কাছে
+> শিহরণ জাগে দেহে মন আমার বাঁচে
+> তোমার ঐ গভীর চোখে হারাতে যে চাই
+> অন্ধকার এই রাতে তোমাকেই আমি চাই
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
