@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bhenge Porar Golpo
+
+This log tracks the cryptographic history and versioning for the song **Bhenge Porar Golpo** (bhenge-porar-golpo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-13T06:55:22.928650 | `v1` | `0a3c83905b1fbf3a425e9e7c07d32fe0862a640ffe607a01353b550c058f5fef` | `b95e41d86b32ca027e6f5e581785855e9f1f67e53257b80ce83e447d51e0f7cb` | `2026-05-13_bhenge-porar-golpo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

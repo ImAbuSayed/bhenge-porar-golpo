@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bhenge-porar-golpo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Bhenge Porar Golpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bhenge-porar-golpo/) |
+| **Get License** | [Get License For Bhenge Porar Golpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bhenge-porar-golpo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0a3c83905b1fbf3a425e9e7c07d32fe0862a640ffe607a01353b550c058f5fef` |
 | **Timestamp** | May 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
